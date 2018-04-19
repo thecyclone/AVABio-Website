@@ -1,6 +1,4 @@
-Thanks for downloading this theme!
+Website for AVABio project
+(https://thecyclone.github.io/AVABio-Website/)
 
-Theme Name: Bootslander
-Theme URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Theme is taken with appreciation from: https://bootstrapmade.com
